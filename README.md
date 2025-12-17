@@ -106,17 +106,6 @@ FLUSH PRIVILEGES;
 
 ---
 
-## 📷 시연 장면
-
-### 임베디드 동작 (STM32)
-| 물 유입 감지 | 수위 감소 / 복귀 | 리모컨 수동 제어 | 수위 상승 / 경고 |
-| --- | --- | --- | --- |
-| ![](images/Animation.gif) | ![](images/Animation2.gif) | ![](images/Animation3.gif) | ![](images/Animation4.gif) |
-
-### 모니터링 시스템 (Raspberry Pi)
-> *(여기에 GUI 실행 스크린샷을 추가하면 좋습니다)*
-- **실시간 대시보드**: 현재 수위 및 시스템 상태 확인
-- **DB 로그**: 데이터 이력 조회
 
 ---
 
