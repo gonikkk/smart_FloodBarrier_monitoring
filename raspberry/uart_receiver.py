@@ -11,8 +11,8 @@ BAUDRATE = 115200            # STM32와 동일하게 맞추기
 # ===== MariaDB 설정 =====
 DB_CONFIG = {
     "host": "localhost",
-    "user": "sensoruser",      # 너가 만든 계정
-    "password": "sensorpass",  # 설정한 비밀번호
+    "user": "sensoruser",      # 만든 계정
+    "password": "sensorpass",  # 비밀번호
     "database": "sensordb",
     "charset": "utf8mb4"
 }
@@ -137,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
